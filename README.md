@@ -16,6 +16,11 @@ confirmation will send you an appropriate amount of bitcoins.
 
 App construction will begin atop [Brunch Socket Soup](https://github.com/pheuter/brunch-socket-soup)
 
+## References
+
+[Bitcoin on Node.js](https://en.bitcoin.it/wiki/API_reference_(JSON-RPC)#Node.js)
+[Bitcoin API calls](https://en.bitcoin.it/wiki/Original_Bitcoin_client/API_calls_list)
+
 ## Ingredients
 
   * [Bootstrap](http://twitter.github.com/bootstrap/index.html)
