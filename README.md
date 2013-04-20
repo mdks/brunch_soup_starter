@@ -44,9 +44,15 @@ Throw in the ingredients:
 
     npm install
 
-Serve and take sips:
+Start the SERVER
 
-    coffee server.coffee && brunch watch
+    coffee server.coffee
+
+Start the APP
+
+    brunch watch
+
+Go to http://localhost:3000
 
 Don't forget tests:
     
