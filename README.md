@@ -47,3 +47,7 @@ Throw in the ingredients:
 Serve and take sips:
 
     coffee server.coffee && brunch watch
+
+Don't forget tests:
+    
+    mocha --compilers coffee:coffee-script  
