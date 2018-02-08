@@ -14,7 +14,7 @@ App construction will begin atop [Brunch Socket Soup](https://github.com/pheuter
   * [Stylus](http://learnboost.github.com/stylus/)
   * [Coffeescript](http://coffeescript.org/)
   * [Handlebars](http://handlebarsjs.com/)
-  * [Mocha](http://visionmedia.github.com/mocha/)
+  * [Mocha](http://mochajs.org/)
   * [Backbone](http://backbonejs.com)
   * [Express](http://expressjs.com/)
   * [Socket.io](http://socket.io/ )
